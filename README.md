@@ -1,7 +1,7 @@
 <br />
 
 Hello! I'm Xinyi WAN, a researcher interested in formal verification.<br />
-Formal verification :: theorem proving:: { program logic, operating system verification }
+<code>Formal verification :: theorem proving :: { program logic, operating system verification }</code>
 
 **About me**
 
